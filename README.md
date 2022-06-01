@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/abdulahadahmadi/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/abdulahadahmadi/StrapDown.js/stargazers/)
