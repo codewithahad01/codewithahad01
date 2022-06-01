@@ -1,5 +1,5 @@
-### Hi there I'm Ahad 👋
-
+<!-- ### Hi there I'm Ahad 👋 -->
+![Header]()
 <!--
 **Abdulahadahmadi/abdulahadahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +47,7 @@ https://www.buymeacoffee.com/ahmadi1998
 
 
 
-![Header](./[../git-header.png])
+
 
 
 
