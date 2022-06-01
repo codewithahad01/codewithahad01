@@ -44,15 +44,11 @@ Here are some ideas to get you started:
 
 https://www.buymeacoffee.com/ahmadi1998
 
-<a href="https://github.com/abdulahadahmadi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulahadahmadi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/abdulahadahmadi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulahadahmadi&repo=convoychat" />
-</a>
 
 
-![Header](./[])
+
+![Header](./github-header-image(1).png)
+
 
 
 
