@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 https://www.buymeacoffee.com/ahmadi1998
 
 
+you just need to add you username after / , like <a href="https://twitter.com/abdulahadahmadi"
+
 
 
 
