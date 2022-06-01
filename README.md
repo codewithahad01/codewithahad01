@@ -45,19 +45,13 @@ Here are some ideas to get you started:
 https://www.buymeacoffee.com/ahmadi1998
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,react,redux,nodejs,express,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,tailwindcss,materialui,react,redux,nodejs,express,git,github,vscode)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,react,redux,nodejs,express,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,materialui,react,redux,nodejs,express,git,github,vscode" />
   </a>
 </p>
-
-
-
-
-
-
 
 
 
