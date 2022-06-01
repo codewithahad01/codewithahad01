@@ -45,9 +45,13 @@ Here are some ideas to get you started:
 https://www.buymeacoffee.com/ahmadi1998
 
 
-you just need to add you username after / , like <a href="https://twitter.com/abdulahadahmadi"
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,react,redux,nodejs,express,git,github,vscode)](https://skillicons.dev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,react,redux,nodejs,express,git,github,vscode" />
+  </a>
+</p>
 
 
 
