@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub stars](https://img.shields.io/github/stars/abdulahadahmadi/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/abdulahadahmadi/StrapDown.js/stargazers/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadahmadi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
