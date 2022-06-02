@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 
 # 📊GitHub Stats :
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadahmadi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadahmadi&theme=blue-green)](https://github.com/abdulahadahmadi/github-readme-stats)
 
-[![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadahmadi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadahmadi&theme=blue-green)](https://github.com/abdulahadahmadi/github-readme-stats)
 
 
 
