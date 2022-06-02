@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/abdulahadahmadi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/abdulahadahmadi?tab=followers)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/abdulahadahmadi/ama)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/abdulahadahmadi/badges/)
+[![](https://visitcount.itsvg.in/api?id=abdulahadahmadi&icon=5&color=0)](https://visitcount.itsvg.in)
+
 <!-- [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://GitHub.com/abdulahadahmadi/StrapDown.js/commit/) -->
 <!-- [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/abdulahadahmadi/StrapDown.js/network/) -->
 <!-- [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) -->
@@ -65,7 +67,6 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdulahadahmadi&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
