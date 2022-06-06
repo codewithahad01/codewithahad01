@@ -34,7 +34,7 @@
 💬 Ask me about JavaScript, React, Tailwindcss, CSS, Collaboration
 📝 I regularly upload new designs on https://www.frontendmentor.io/profile/Abdulahadahmadi<br />
 📫 How to reach me <br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-ahad-ahmadi-1a7295175/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/abdul-ahad-ahmadi-1a7295175/](https://www.linkedin.com/in/abdul-ahmadi-1a7295175/))
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khalid.ahmadi.752861)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/codeWithAhad) 
 
