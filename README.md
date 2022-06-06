@@ -20,7 +20,7 @@
 
 
   ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/ahmadi1998) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahmadi1998) 
 
 
 
@@ -61,9 +61,9 @@
 
 
 # 📊GitHub Stats :
-[![Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadahmadi&theme=blue-green)](https://github.com/abdulahadahmadi/github-readme-stats)
+[![Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadahmadi&theme=blue-green)](https://github.com/Abdulahadahmadi)
 
-[![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadahmadi&theme=blue-green)](https://github.com/abdulahadahmadi/github-readme-stats)
+[![Ahad's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadahmadi&theme=blue-green)](https://github.com/Abdulahadahmadi)
 
 
 
